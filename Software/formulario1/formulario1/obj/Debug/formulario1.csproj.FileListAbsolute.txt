@@ -1,0 +1,18 @@
+C:\Users\karen\Desktop\CapacitacionReportes\formulario1\formulario1\bin\Debug\formulario1.exe.config
+C:\Users\karen\Desktop\CapacitacionReportes\formulario1\formulario1\bin\Debug\formulario1.exe
+C:\Users\karen\Desktop\CapacitacionReportes\formulario1\formulario1\bin\Debug\formulario1.pdb
+C:\Users\karen\Desktop\CapacitacionReportes\formulario1\formulario1\obj\Debug\formulario1.csprojResolveAssemblyReference.cache
+C:\Users\karen\Desktop\CapacitacionReportes\formulario1\formulario1\obj\Debug\formulario1.Form1.resources
+C:\Users\karen\Desktop\CapacitacionReportes\formulario1\formulario1\obj\Debug\formulario1.Properties.Resources.resources
+C:\Users\karen\Desktop\CapacitacionReportes\formulario1\formulario1\obj\Debug\formulario1.csproj.GenerateResource.Cache
+C:\Users\karen\Desktop\CapacitacionReportes\formulario1\formulario1\obj\Debug\formulario1.exe
+C:\Users\karen\Desktop\CapacitacionReportes\formulario1\formulario1\obj\Debug\formulario1.pdb
+C:\Users\karen\Desktop\Examen Parcial Analisis Sistemas\formulario1\formulario1\bin\Debug\formulario1.exe.config
+C:\Users\karen\Desktop\Examen Parcial Analisis Sistemas\formulario1\formulario1\obj\Debug\formulario1.exe
+C:\Users\karen\Desktop\Examen Parcial Analisis Sistemas\formulario1\formulario1\obj\Debug\formulario1.pdb
+C:\Users\karen\Desktop\Examen Parcial Analisis Sistemas\formulario1\formulario1\obj\Debug\formulario1.csprojResolveAssemblyReference.cache
+C:\Users\karen\Desktop\Examen Parcial Analisis Sistemas\formulario1\formulario1\obj\Debug\formulario1.Form1.resources
+C:\Users\karen\Desktop\Examen Parcial Analisis Sistemas\formulario1\formulario1\obj\Debug\formulario1.Properties.Resources.resources
+C:\Users\karen\Desktop\Examen Parcial Analisis Sistemas\formulario1\formulario1\obj\Debug\formulario1.csproj.GenerateResource.Cache
+C:\Users\karen\Desktop\Examen Parcial Analisis Sistemas\formulario1\formulario1\bin\Debug\formulario1.exe
+C:\Users\karen\Desktop\Examen Parcial Analisis Sistemas\formulario1\formulario1\bin\Debug\formulario1.pdb
