@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudaVenta.chm
+Contents file=AyudasVentas.hhc
+Default Window=AyudaVentas
+Display compile progress=No
+Language=0xc0a Español (España, internacional)
+
+[WINDOWS]
+AyudaVentas="examen1","AyudasVentas.hhc",,"Venta.html","Venta.html","Venta.html","Venta.html","Venta.html","Venta.html",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+Venta.html
+
+[INFOTYPES]
+
